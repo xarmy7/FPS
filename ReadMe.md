@@ -12,7 +12,8 @@ You need to put the files :
 - ikpFlac.dll <br>
 in the folder x64/Release (or x64/Debug), they can be found on sirius : RMLG/BIN.
 
-The resources (obj, textures, mtl, etc) are in the zip file on sirius : RMLG/BIN/resources.
+The resources (obj, textures, mtl, etc) are in the zip file on Drive in RMLG/BIN/resources. <br>
+https://drive.google.com/drive/folders/1r7mFWY-Kzzs-ljfBG7_TGtYLrTMKWX5y?usp=sharing
 
 # Controls
 - **WASD/ZQSD keys** : Move foward, backward, left and right.
